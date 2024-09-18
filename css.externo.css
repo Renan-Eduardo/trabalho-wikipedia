@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(236, 233, 233);
+    font-family: "Montserrat" , sans-serif;
+    margin: 0,2%,0,2%;
+}
+
+.centrotag{
+    text-align: center;
+}
+
+.linha_hr_1{
+    border: 2px solid black;
+    margin-left: 42%;
+    margin-right: 42%;
+}
+
+.linha_hr_2{
+    border: 2px solid black;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+.tamanho.f.h{
+    font-size: 34px;
+    margin-top: 10%;
+    text-align: center;
+}
+
+p{
+    text-indent: 1.5rem;
+}
+
+.tamanho.tag{
+    font-size: 24px ;
+    margin-top: 10%;
+    font-weight: 600;
+}
+
+.tagdiv_1{
+    background-color: white;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+
+.tagdiv_2{
+    border-left: 1px solid;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    margin-right: 90rem;
+}
+
+.conteudo{
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+    border-left: 1px solid;
+    border-right: 1px solid;
+    background-color: rgb(10,181,248);
+    font-size: 30px;
+    
+    
+}
